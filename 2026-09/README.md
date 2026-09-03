@@ -8,3 +8,4 @@
 | 2 | [add-two-numbers](https://leetcode.com/problems/add-two-numbers/submissions/2129710722/?envType=problem-list-v2&envId=math) | C++ | [add-two-numbers.cpp](./add-two-numbers.cpp) |
 | 3 | [reverse-integer](https://leetcode.com/problems/reverse-integer/submissions/2129710918/?envType=problem-list-v2&envId=math) | C++ | [reverse-integer.cpp](./reverse-integer.cpp) |
 | 4 | [palindrome-number](https://leetcode.com/problems/palindrome-number/submissions/2129711175/?envType=problem-list-v2&envId=math) | C++ | [palindrome-number.cpp](./palindrome-number.cpp) |
+| 5 | [integer-to-roman](https://leetcode.com/problems/roman-to-integer/description/?envType=problem-list-v2&envId=math) | C++ | [integer-to-roman.cpp](./integer-to-roman.cpp) |
