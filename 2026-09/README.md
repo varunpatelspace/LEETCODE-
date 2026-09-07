@@ -12,3 +12,4 @@
 | 6 | [roman-to-integer](https://leetcode.com/problems/divide-two-integers/description/?envType=problem-list-v2&envId=math) | C++ | [roman-to-integer.cpp](./roman-to-integer.cpp) |
 | 7 | [roman-to-integer](https://leetcode.com/problems/roman-to-integer/submissions/2129711969/?envType=problem-list-v2&envId=math) | C++ | [roman-to-integer.cpp](./roman-to-integer.cpp) |
 | 8 | [concatenation-of-array](https://leetcode.com/problems/concatenation-of-array/submissions/2132531262/?envType=problem-list-v2&envId=dsa-linear-shoal-array-i) | C++ | [concatenation-of-array.cpp](./concatenation-of-array.cpp) |
+| 9 | [search-insert-position](https://leetcode.com/problems/search-insert-position/submissions/2133624219/?envType=problem-list-v2&envId=array) | C++ | [search-insert-position.cpp](./search-insert-position.cpp) |
