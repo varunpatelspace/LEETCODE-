@@ -17,3 +17,4 @@
 | 11 | [search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/2134832269/?envType=problem-list-v2&envId=array) | C++ | [search-in-rotated-sorted-array.cpp](./search-in-rotated-sorted-array.cpp) |
 | 12 | [valid-sudoku](https://leetcode.com/problems/valid-sudoku/submissions/2136601915/?envType=problem-list-v2&envId=array) | C++ | [valid-sudoku.cpp](./valid-sudoku.cpp) |
 | 13 | [unique-3-digit-even-numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/submissions/2138599572/?envType=daily-question&envId=2026-09-11) | C++ | [unique-3-digit-even-numbers.cpp](./unique-3-digit-even-numbers.cpp) |
+| 14 | [longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/submissions/2142600994/) | C++ | [longest-common-prefix.cpp](./longest-common-prefix.cpp) |
