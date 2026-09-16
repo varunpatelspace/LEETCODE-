@@ -19,3 +19,4 @@
 | 13 | [unique-3-digit-even-numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/submissions/2138599572/?envType=daily-question&envId=2026-09-11) | C++ | [unique-3-digit-even-numbers.cpp](./unique-3-digit-even-numbers.cpp) |
 | 14 | [longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/submissions/2142600994/) | C++ | [longest-common-prefix.cpp](./longest-common-prefix.cpp) |
 | 15 | [3sum](https://leetcode.com/problems/3sum/submissions/2143919331/?envType=problem-list-v2&envId=array) | C++ | [3sum.cpp](./3sum.cpp) |
+| 16 | [3sum-closest](https://leetcode.com/problems/3sum-closest/submissions/2143942482/?envType=problem-list-v2&envId=array) | C++ | [3sum-closest.cpp](./3sum-closest.cpp) |
