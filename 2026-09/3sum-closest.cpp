@@ -4,7 +4,7 @@
  ║  Platform : LeetCode                                                    ║
  ║  Status   : Accepted                                                    ║
  ║  Date     : September 16, 2026                                          ║
- ║  URL      : https://leetcode.com/problems/3sum-closest/?envType=problem-list-v2&envId=array║
+ ║  URL      : https://leetcode.com/problems/3sum-closest/submissions/2143942482/?envType=problem-list-v2&envId=array║
  ╚═══════════════════════════════════════════════════════════════════════╝
  */
 
