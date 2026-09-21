@@ -26,3 +26,4 @@
 | 20 | [sort-colors](https://leetcode.com/problems/sort-colors/?envType=problem-list-v2&envId=array) | C++ | [sort-colors.cpp](./sort-colors.cpp) |
 | 21 | [subsets](https://leetcode.com/problems/subsets/submissions/2148730670/?envType=problem-list-v2&envId=array) | C++ | [subsets.cpp](./subsets.cpp) |
 | 22 | [subsets](https://leetcode.com/problems/subsets/submissions/2148730670/?envType=problem-list-v2&envId=array) | C++ | [subsets.cpp](./subsets.cpp) |
+| 23 | [subsets](https://leetcode.com/problems/subsets/submissions/2148730670/?envType=problem-list-v2&envId=array) | C++ | [subsets.cpp](./subsets.cpp) |
