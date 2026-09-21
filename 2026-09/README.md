@@ -27,3 +27,4 @@
 | 21 | [subsets](https://leetcode.com/problems/subsets/submissions/2148730670/?envType=problem-list-v2&envId=array) | C++ | [subsets.cpp](./subsets.cpp) |
 | 22 | [subsets](https://leetcode.com/problems/subsets/submissions/2148730670/?envType=problem-list-v2&envId=array) | C++ | [subsets.cpp](./subsets.cpp) |
 | 23 | [subsets](https://leetcode.com/problems/subsets/submissions/2148730670/?envType=problem-list-v2&envId=array) | C++ | [subsets.cpp](./subsets.cpp) |
+| 24 | [move-zeroes](https://leetcode.com/problems/move-zeroes/) | C++ | [move-zeroes.cpp](./move-zeroes.cpp) |
