@@ -24,3 +24,4 @@
 | 18 | [3sum-closest](https://leetcode.com/problems/3sum-closest/submissions/2143942482/?envType=problem-list-v2&envId=array) | C++ | [3sum-closest.cpp](./3sum-closest.cpp) |
 | 19 | [3sum](https://leetcode.com/problems/3sum/submissions/2148691121/?envType=problem-list-v2&envId=array) | C++ | [3sum.cpp](./3sum.cpp) |
 | 20 | [sort-colors](https://leetcode.com/problems/sort-colors/?envType=problem-list-v2&envId=array) | C++ | [sort-colors.cpp](./sort-colors.cpp) |
+| 21 | [subsets](https://leetcode.com/problems/subsets/submissions/2148730670/?envType=problem-list-v2&envId=array) | C++ | [subsets.cpp](./subsets.cpp) |
