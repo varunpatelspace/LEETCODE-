@@ -29,3 +29,4 @@
 | 23 | [subsets](https://leetcode.com/problems/subsets/submissions/2148730670/?envType=problem-list-v2&envId=array) | C++ | [subsets.cpp](./subsets.cpp) |
 | 24 | [move-zeroes](https://leetcode.com/problems/move-zeroes/) | C++ | [move-zeroes.cpp](./move-zeroes.cpp) |
 | 25 | [remove-duplicates-from-sorted-array-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/submissions/2149462298/?envType=problem-list-v2&envId=array) | C++ | [remove-duplicates-from-sorted-array-ii.cpp](./remove-duplicates-from-sorted-array-ii.cpp) |
+| 26 | [kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/2149473925/?envType=problem-list-v2&envId=array) | C++ | [kth-largest-element-in-an-array.cpp](./kth-largest-element-in-an-array.cpp) |
