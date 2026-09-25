@@ -34,3 +34,4 @@
 | 28 | [smallest-index-with-digit-sum-equal-to-index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/submissions/2151544252/?envType=daily-question&envId=2026-09-24) | C++ | [smallest-index-with-digit-sum-equal-to-index.cpp](./smallest-index-with-digit-sum-equal-to-index.cpp) |
 | 29 | [length-of-last-word](https://leetcode.com/problems/length-of-last-word/submissions/2151560249/) | C++ | [length-of-last-word.cpp](./length-of-last-word.cpp) |
 | 30 | [plus-one](https://leetcode.com/problems/plus-one/submissions/2152073988/?envType=problem-list-v2&envId=array) | C++ | [plus-one.cpp](./plus-one.cpp) |
+| 31 | [majority-element](https://leetcode.com/problems/majority-element/submissions/2153066898/?envType=problem-list-v2&envId=array) | C++ | [majority-element.cpp](./majority-element.cpp) |
