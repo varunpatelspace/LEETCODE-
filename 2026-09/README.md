@@ -36,3 +36,4 @@
 | 30 | [plus-one](https://leetcode.com/problems/plus-one/submissions/2152073988/?envType=problem-list-v2&envId=array) | C++ | [plus-one.cpp](./plus-one.cpp) |
 | 31 | [majority-element](https://leetcode.com/problems/majority-element/submissions/2153066898/?envType=problem-list-v2&envId=array) | C++ | [majority-element.cpp](./majority-element.cpp) |
 | 32 | [contains-duplicate-ii](https://leetcode.com/problems/contains-duplicate-ii/submissions/2153222089/?envType=problem-list-v2&envId=array) | C++ | [contains-duplicate-ii.cpp](./contains-duplicate-ii.cpp) |
+| 33 | [sqrtx](https://leetcode.com/problems/sqrtx/submissions/2154180386/) | C++ | [sqrtx.cpp](./sqrtx.cpp) |
