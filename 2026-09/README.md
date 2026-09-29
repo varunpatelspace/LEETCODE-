@@ -38,3 +38,4 @@
 | 32 | [contains-duplicate-ii](https://leetcode.com/problems/contains-duplicate-ii/submissions/2153222089/?envType=problem-list-v2&envId=array) | C++ | [contains-duplicate-ii.cpp](./contains-duplicate-ii.cpp) |
 | 33 | [sqrtx](https://leetcode.com/problems/sqrtx/submissions/2154180386/) | C++ | [sqrtx.cpp](./sqrtx.cpp) |
 | 34 | [maximum-nesting-depth-of-the-parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/?envType=daily-question&envId=2026-09-28) | C++ | [maximum-nesting-depth-of-the-parentheses.cpp](./maximum-nesting-depth-of-the-parentheses.cpp) |
+| 35 | [summary-ranges](https://leetcode.com/problems/summary-ranges/submissions/2157359548/?envType=problem-list-v2&envId=array) | C++ | [summary-ranges.cpp](./summary-ranges.cpp) |
