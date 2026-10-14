@@ -10,3 +10,4 @@
 | 4 | [maximize-sum-of-squares-of-digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/?envType=daily-question&envId=2026-10-14) | C++ | [maximize-sum-of-squares-of-digits.cpp](./maximize-sum-of-squares-of-digits.cpp) |
 | 5 | [basic-calculator-ii](https://leetcode.com/problems/basic-calculator-ii/submissions/2172374852/?envType=problem-list-v2&envId=string) | C++ | [basic-calculator-ii.cpp](./basic-calculator-ii.cpp) |
 | 6 | [search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | C++ | [search-a-2d-matrix.cpp](./search-a-2d-matrix.cpp) |
+| 7 | [search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix/submissions/2172396717/) | C++ | [search-a-2d-matrix.cpp](./search-a-2d-matrix.cpp) |
