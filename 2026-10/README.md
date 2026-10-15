@@ -12,3 +12,4 @@
 | 6 | [search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | C++ | [search-a-2d-matrix.cpp](./search-a-2d-matrix.cpp) |
 | 7 | [search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix/submissions/2172396717/) | C++ | [search-a-2d-matrix.cpp](./search-a-2d-matrix.cpp) |
 | 8 | [subarrays-distinct-element-sum-of-squares-i](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/submissions/2173193025/?envType=daily-question&envId=2026-10-15) | Python | [subarrays-distinct-element-sum-of-squares-i.py](./subarrays-distinct-element-sum-of-squares-i.py) |
+| 9 | [subarrays-distinct-element-sum-of-squares-i](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/submissions/2173193025/?envType=daily-question&envId=2026-10-15) | Python | [subarrays-distinct-element-sum-of-squares-i.py](./subarrays-distinct-element-sum-of-squares-i.py) |
