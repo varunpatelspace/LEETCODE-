@@ -16,3 +16,4 @@
 | 10 | [subarrays-distinct-element-sum-of-squares-i](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/submissions/2173193025/?envType=daily-question&envId=2026-10-15) | Python | [subarrays-distinct-element-sum-of-squares-i.py](./subarrays-distinct-element-sum-of-squares-i.py) |
 | 11 | [excel-sheet-column-number](https://leetcode.com/problems/excel-sheet-column-number/submissions/2173199185/) | Python | [excel-sheet-column-number.py](./excel-sheet-column-number.py) |
 | 12 | [single-number](https://leetcode.com/problems/single-number/submissions/2174071128/) | C++ | [single-number.cpp](./single-number.cpp) |
+| 13 | [third-maximum-number](https://leetcode.com/problems/third-maximum-number/submissions/2174080843/?envType=problem-list-v2&envId=array) | C++ | [third-maximum-number.cpp](./third-maximum-number.cpp) |
