@@ -17,3 +17,4 @@
 | 11 | [excel-sheet-column-number](https://leetcode.com/problems/excel-sheet-column-number/submissions/2173199185/) | Python | [excel-sheet-column-number.py](./excel-sheet-column-number.py) |
 | 12 | [single-number](https://leetcode.com/problems/single-number/submissions/2174071128/) | C++ | [single-number.cpp](./single-number.cpp) |
 | 13 | [third-maximum-number](https://leetcode.com/problems/third-maximum-number/submissions/2174080843/?envType=problem-list-v2&envId=array) | C++ | [third-maximum-number.cpp](./third-maximum-number.cpp) |
+| 14 | [find-all-numbers-disappeared-in-an-array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/?envType=problem-list-v2&envId=array) | C++ | [find-all-numbers-disappeared-in-an-array.cpp](./find-all-numbers-disappeared-in-an-array.cpp) |
